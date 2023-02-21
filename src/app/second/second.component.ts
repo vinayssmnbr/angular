@@ -11,8 +11,8 @@ export class SecondComponent {
   constructor(public services:FirstService){
 
   }
-  addnumber(){
-    this.services.addnumber()
-  }
+  // addnumber(){
+  //   this.services.addnumber()
+  // }
 
 }
